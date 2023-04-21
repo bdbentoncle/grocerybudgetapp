@@ -1,6 +1,6 @@
-# Tally App
+# Shoppint List App
 
-The Tally App is a simple web application that helps users keep track of their grocery expenses. It allows users to add items to a list, along with their respective prices, and then calculates the total cost of all the items. Users can also delete individual items or clear the entire list.
+The Shopping List App is a simple web application that helps users keep track of their grocery expenses. It allows users to add items to a list, along with their respective prices, and then calculates the total cost of all the items. Users can also delete individual items or clear the entire list.
 
 <h2>Files</h2>
 
